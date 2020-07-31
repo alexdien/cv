@@ -1,0 +1,26 @@
+body {
+  background-color: #dfd3c3;
+}
+
+hr {
+  border-style: dotted none none;
+  border-color: #596e79;
+  border-width: 5px;
+  height: 0px;
+  width: 10%;
+}
+
+h1{
+  color: #1b262c
+}
+
+h3{
+  color: #3282b8
+}
+
+#fred{
+  color: Blue;
+}
+
+
+</style>
